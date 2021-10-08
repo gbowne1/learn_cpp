@@ -1,0 +1,4 @@
+This is the notes file for this book I have created for my own notes from this book.
+
+There are some great example programs and text in this book.
+
