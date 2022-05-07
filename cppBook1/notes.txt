@@ -2,3 +2,7 @@ This is the notes file for this book I have created for my own notes from this b
 
 There are some great example programs and text in this book.
 
+you can still compile these programs to .exe using the ``` c++ <name>.cpp -0 <name>.exe ``` command even in Linux.
+
+I prefer using a Makefile and running make <name> command.
+
